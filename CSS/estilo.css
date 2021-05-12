@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
+
+body {
+    font-family: 'Lateef', cursive;
+    font-size: 15pt;
+}
+
+header#cabecalho-principal{
+    border-bottom: 1px black solid;
+}
+
+img{
+    width: 1250px;
+}
+
+header#cabecalho-secundario {
+    border-bottom: 1px black solid;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
