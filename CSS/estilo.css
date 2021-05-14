@@ -1,30 +1,35 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
 
-body {
+.interface{
     font-family: 'Lateef', cursive;
     font-size: 15pt;
     background-color: #006400;
-}
-
-header#cabecalho-principal{
-    border: 1px solid black;
-    position: relative;
-    bottom: 694px;
-}
-
-nav#menu-principal {
+    max-width: 1920px;
     text-align: center;
 }
 
-img{
-    width: 1200px;
+.logo {
+    max-height: 100%;
     position: relative;
-    left: 10%; 
-    bottom: 8px;
+    text-align: center;
 }
 
-header#cabecalho-secundario {
+.cabecalho-principal{
+    border: 1px solid black;
+    position: absolute;
+    top: 20px;
+    width: 100%;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}
+
+.cabecalho-secundario {
     border-bottom: 1px black solid;
 }
 
