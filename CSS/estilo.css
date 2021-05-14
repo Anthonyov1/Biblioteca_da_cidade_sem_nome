@@ -4,14 +4,24 @@
 body {
     font-family: 'Lateef', cursive;
     font-size: 15pt;
+    background-color: ;
 }
 
 header#cabecalho-principal{
-    border-bottom: 1px black solid;
+    border: 1px solid black;
+    position: relative;
+    bottom: 694px;
+}
+
+nav#menu-principal {
+    text-align: center;
 }
 
 img{
-    width: 1250px;
+    width: 1200px;
+    position: relative;
+    left: 10%; 
+    bottom: 8px;
 }
 
 header#cabecalho-secundario {
