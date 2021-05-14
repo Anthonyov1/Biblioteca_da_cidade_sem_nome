@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
+
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+.interface-logo {
+    position: relative;
+    width: 100%;
+}
+
+.foto {
+    width: 100%;
+}
+
+.nome-logo {
+    position: relative;
+    text-align: center;
+    font-family: 'lateef', cursive ;
+    bottom: 900px;
+    right: 5px;
+    font-size: 50pt;
+    color: #8B008B;
+    text-shadow: 2px 2px 2px black;
+}
