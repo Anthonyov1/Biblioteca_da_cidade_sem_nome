@@ -2,26 +2,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
 
 body{
-    background-color: black;
     overflow: hidden;
+    margin: 0;
 }
 
 .interface-logo {
     position: relative;
-    width: 100%;
 }
 
 .foto {
-    width: 100%;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
 }
 
 .nome-logo {
     position: relative;
     text-align: center;
-    font-family: 'lateef', cursive ;
-    bottom: 900px;
+    font-family:'lateef', cursive;
+    bottom: 600px;
     right: 5px;
-    font-size: 50pt;
+    font-size: 50px;
     color: #8B008B;
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 4px 4px 4px black;
 }
