@@ -22,7 +22,9 @@ body{
     font-family:'lateef', cursive;
     color: #8B008B;
     text-shadow: 4px 4px 4px black;
-    bottom: 900px;
+    bottom: 850px;
     right: 5px;
-    font-size: 4rem;
+    font-size: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
 }
