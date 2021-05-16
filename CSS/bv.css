@@ -20,9 +20,9 @@ body{
     position: relative;
     text-align: center;
     font-family:'lateef', cursive;
-    bottom: 600px;
-    right: 5px;
-    font-size: 50px;
     color: #8B008B;
     text-shadow: 4px 4px 4px black;
+    bottom: 900px;
+    right: 5px;
+    font-size: 4rem;
 }
